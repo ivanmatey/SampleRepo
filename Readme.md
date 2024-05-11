@@ -5,3 +5,6 @@ _Write or add whatever you want_
 - remember to merge to your branch and push from there-
 
 This is a new line after my first push
+
+
+This is me traying tu push my part
