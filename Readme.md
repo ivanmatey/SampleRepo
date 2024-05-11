@@ -6,6 +6,8 @@ _Write or add whatever you want_
 
 This is a new line after my first push
 
+
+This is me traying tu push my part
 Hello, let's make a conflict here lol
 1 line
 2 line
